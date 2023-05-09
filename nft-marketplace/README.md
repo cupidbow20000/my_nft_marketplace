@@ -32,7 +32,6 @@ There are only two pages to view market's NFTs:
 Shows all NFTs that are available to be bought.  
 This page will show NFTs even if the user doesn't have the [Metamask](https://metamask.io/) extension or isn't connected to the dapp.
 
-![NFTs available](https://user-images.githubusercontent.com/16388408/151682517-6c0d89eb-80e6-4eeb-a6b0-6d584cdca5a3.png)  
 _NFTs available_
 
 ---
